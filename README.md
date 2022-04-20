@@ -27,6 +27,8 @@
  `SHAP_analysis_KNN_Model.ipynb` - Generation of SHAP graphs for model explainability using the test dataset. Only the best classifier was included in this analysis: KNN.
  
  `SHAP_analysis_KNN_Model_NO_CSSA1.ipynb` - Same as above but without CSSA1 variable.
+ 
+ `SHAP_analysis_Log_Reg_Model_NO_CSSA1.ipynb` - Same as above but without CSSA1 variable and for logistic regression model.
 
 
 
