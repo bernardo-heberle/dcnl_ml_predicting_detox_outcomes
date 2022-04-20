@@ -28,7 +28,7 @@
  
  `SHAP_analysis_KNN_Model_NO_CSSA1.ipynb` - Same as above but without CSSA1 variable.
  
- `SHAP_analysis_Log_Reg_Model_NO_CSSA1.ipynb` - Same as above but without CSSA1 variable and for logistic regression model.
+ `SHAP_analysis_Logistic_Regression_Model_NO_CSSA1.ipynb` - Same as above but without CSSA1 variable and for logistic regression model.
 
 
 
