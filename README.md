@@ -10,7 +10,7 @@
 
 ### Summary of contents:
 
-`divide_test_and_training_70_30.ipynb` - Code used for cleaning up the data, create outcomes based on percentiles, and separata training vs test dataset (80/20 Split).
+`divide_test_and_training.ipynb` - Code used for cleaning up the data, create outcomes based on percentiles, and separata training vs test dataset (80/20 Split).
 
 `analysis_feature_selection_30_70.ipynb` - Code used to select features for downstream analysis.
 
