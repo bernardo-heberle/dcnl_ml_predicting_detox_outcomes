@@ -16,6 +16,6 @@
 
 `02_make_datasets_for_others.ipynb ` - Creating datasets for collaborators to calculate stats and do their part of the analysis.
 
-
+`dependencies.txt` - Text file containing Python and Python package versions used for this analysis.
 
 
