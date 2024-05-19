@@ -2,9 +2,9 @@
 
 
 
-### Code used for the Machiune Learning Analyses in the Peer-Reviewed Article Titled: "Using machine learning to identify poor detoxification treatment outcome estimated by cocaine withdrawal syndrome severity".
+### Code used for the Machiune Learning Analyses in the Peer-Reviewed Article Titled: "Examining predictors of cocaine withdrawal syndrome at the end of detoxification treatment in women with cocaine use disorder".
 
-### DOI: XXX
+### DOI: 10.1016/j.jpsychires.2023.11.043
 
 
 
